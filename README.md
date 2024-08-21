@@ -15,6 +15,11 @@ Open Notepad again.
 Copy and paste the code for your app.py file.
 Save the file as app.py inside the doctor_appointment folder.
 
+doctor_appointment/
+├── app.py
+└── templates/
+    └── index.html
+
 Step 4: Open Command Prompt
 Install Python if you don't have it already.
 Open the Command Prompt.
