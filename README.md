@@ -46,4 +46,8 @@ You should see the form you created.
 
 Step 9: Test the Website
 Fill out the form and submit it.
-Check the appointments.xlsx file in your project folder to see if the data was saved correctly.
+appointments.xlsx file in your project folder to see if the data was saved correctly.
+Check the ![Screenshot (202)](https://github.com/user-attachments/assets/43b755a0-3bd3-4d8c-adea-f53c8f0467ad)
+
+
+
