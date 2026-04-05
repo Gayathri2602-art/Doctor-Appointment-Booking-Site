@@ -51,5 +51,3 @@ Check the ![Screenshot (202)](https://github.com/user-attachments/assets/43b755a
 
 The link for the frontend using HTML https://gayathri2602-art.github.io/Doctor-Appointment-Booking-Site/
 
-
-
